@@ -18,15 +18,15 @@ Hi 👋  I just started working at GitHub on Jan 7, 2025 as a Senior Director, D
 ### What drives you nuts?
 * Bad design
 * Everything on [pleasehatethesethings](https://www.instagram.com/pleasehatethesethings/)
-* People who don't do what they say (I'm a big believer of "If you build it, they will come" or if you follow through, good things will happen ... or worse case scenario you learn for next time, which is actually pretty awesome.)
+* People who don't do what they say (I'm a big believer of "If you build it, they will come" or if you follow through, good things will happen ... or worse case scenario you learn for next time, which is actually pretty awesome)
 * Too much complaining for complaining sakes 
 * Humans not cleaning up after their animals
 
 ### What are some things that people might misunderstand about you that you should clarify?
-* I may come off too serious. Yes, I have a good poker face, but I'm not so serious all the time.
-* That I might know everything about Design Systems.
-* I won't get mad if you pronounce my name wrong, but I will correct you.
-* While place is extremely important to me, where I currently live does not define me.
+* I may come off too serious. Yes, I have a good poker face, but I'm not so serious all the time
+* That I might know everything about Design Systems
+* I won't get mad if you pronounce my name wrong, but I will correct you
+* While place is extremely important to me, where I currently live does not define me
 
 <br/>
 <br/>
@@ -55,7 +55,7 @@ Hi 👋  I just started working at GitHub on Jan 7, 2025 as a Senior Director, D
 ## About my interactions
 	
 ### What’s the best way to communicate with you?
-* Slack, however I don't like long winded conversational messages on Slack. That's what Zoom is for.
+* Slack, however I don't like long winded conversational messages on Slack. That's what Zoom is for
 * Zoom
 	
 ### What’s the best way to convince you to do something?
