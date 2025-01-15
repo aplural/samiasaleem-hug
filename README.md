@@ -6,6 +6,7 @@ Hi 👋  I just started working at GitHub on Jan 7, 2025 as a Senior Director, D
 ## About me
 
 ### What are some honest, unfiltered things about you?
+* I'm a dog person
 * I'm a terrible liar
 * I trust people right off the bat
 * I love meeting new people
