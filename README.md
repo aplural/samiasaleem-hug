@@ -1,5 +1,5 @@
 # Human User Guide for Samia Saleem
-Hi 👋  I just started working at GitHub on Jan 7, 2025 as a Senior Director, Design Infrastructure reporting into the Design Org. If you are reading this it's most likley my attempt to get to know you better, as well as share some details about me, GitHub style :)
+Hi 👋  I just started working at GitHub on Jan 7, 2025 as a Senior Director, Design Infrastructure reporting into the Design Org. If you are reading this it's most likley my attempt to get to know you better, as well as share some details about me.
 
 <br/>
 
@@ -37,7 +37,7 @@ Hi 👋  I just started working at GitHub on Jan 7, 2025 as a Senior Director, D
 ### What qualities do you particularly value in your colleagues?
 * Coming prepared
 * Drivers of their own career
-* Folks that keep videos on even if they never speak to show that you are paying attention
+* Folks that keep videos on even if they never speak to show that you are paying attention (unless it's a company wide meeting)
 * Being honest, even if it's hard
 * Voicing what you want to change
 * Voicing what is working
@@ -69,10 +69,10 @@ Hi 👋  I just started working at GitHub on Jan 7, 2025 as a Senior Director, D
 	 
 ### How do you like to give feedback?
 * For people (usually my directs or my team), I like to share feedback immediately when it just happened, usually directly in a slack message based on how a meeting, presentation, workshop, design review, etc. went and follow-up on our next 1:1
-* I'll try to combine the positive as well as the opportunites so it's not just always one or the other
-* I also like to organize thoughts and give feedback directly to that person
+* I'll try to combine the positive as well as the opportunites so it's not just one or the other
 * During Design Reviews I like to give feedback in an open forum, and also like being able to take the time to gather my thoughts to write them down to put directly in Figma
 * I like to give feedback early and often so there's continuous improvment and learning
+* If you want specific feedback from me, just ask!
 
 ### How do you like to get feedback?
 * Getting Feedback during 1:1s are really helpful
