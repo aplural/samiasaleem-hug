@@ -13,8 +13,7 @@ Hi 👋  I just started working at GitHub on Jan 7, 2025 as a Senior Director, D
 * I work hard (and play hard)
 * I'm an introverted extrovert
 * I'm first generation Pakistani American
-* I love my partner 🌈
-* I'm a stepmom to three girls, and it's one of the hardest thing I've ever done
+* I love my partner 🌈 and I'm a stepmom to three girls
 
 ### What drives you nuts?
 * Bad design
