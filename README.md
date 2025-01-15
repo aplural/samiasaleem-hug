@@ -35,13 +35,13 @@ Hi 👋  I just started working at GitHub on Jan 7, 2025 as a Senior Director, D
 ## About my colleagues
 
 ### What qualities do you particularly value in your colleagues?
-* Drivers of their own career.
-* I like people that seek clarity.
-* Folks that keep videos on even if they never speak to show that you are paying attention.
-* Being honest, even if it's hard.
-* Voicing what you want to change.
-* Voicing what is working.
-* Giving people praise and positive feedback at the right times.
+* Coming prepared
+* Drivers of their own career
+* Folks that keep videos on even if they never speak to show that you are paying attention
+* Being honest, even if it's hard
+* Voicing what you want to change
+* Voicing what is working
+* Giving people praise and positive feedback at the right times
 * Folks that raise the bar and others around them
 * Recognizing the work of others - teamwork makes the dreamwork ✨
 
